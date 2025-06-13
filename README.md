@@ -2,7 +2,8 @@
 
 ## 🧠 Giới thiệu
 Đề tài "Nhà Thông Minh" hướng đến việc xây dựng một hệ thống tự động hóa điều khiển các thiết bị trong nhà (đèn, quạt, cửa, cảm biến...) bằng công nghệ IoT. Hệ thống sử dụng ESP32, ESP32-CAM và ngôn ngữ Python, tích hợp WebServer và chatbot Telegram.
-![Mô tả ảnh](Đồ án kì 1 năm 4(github)/Sanpham.png)
+
+![Mô tả ảnh](Sanpham.png)
 ## 🎯 Mục tiêu
 - Điều khiển thiết bị điện từ xa qua WebServer và Telegram
 - Nhận diện khuôn mặt để mở cửa bằng ESP32-CAM
